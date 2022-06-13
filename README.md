@@ -1,4 +1,4 @@
-# scala_practice
+## 기본 개념 정리 ( 참조 : Learning Scala - 제이슨 스와츠 )
 
 |index|chatper|notion-link|
 |----|----|----|
